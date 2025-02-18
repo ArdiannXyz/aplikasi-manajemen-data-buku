@@ -17,6 +17,7 @@
                 <li><a href="/kategori">kategori</a></li>
                 <li><a href="/penerbit">penerbit</a></li>
                 <li><a href="/buku">buku</a></li>
+                
              </ul>
     </div>
    
